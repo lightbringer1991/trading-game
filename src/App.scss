@@ -1,0 +1,20 @@
+.app {
+
+  .input-group {
+    display: flex;
+
+    .input-group-prepend {
+      width: 30%;
+      flex-grow: 1;
+
+      .input-group-text {
+        width: 100%;
+      }
+    }
+  }
+
+  .progress-log {
+    max-height: 65vh;
+    overflow-y: scroll;
+  }
+}
