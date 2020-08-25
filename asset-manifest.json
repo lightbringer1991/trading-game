@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trading-game/static/css/main.11ef1999.chunk.css",
+    "main.js": "/trading-game/static/js/main.b966c903.chunk.js",
+    "main.js.map": "/trading-game/static/js/main.b966c903.chunk.js.map",
+    "runtime-main.js": "/trading-game/static/js/runtime-main.b8abf3a2.js",
+    "runtime-main.js.map": "/trading-game/static/js/runtime-main.b8abf3a2.js.map",
+    "static/css/2.11829350.chunk.css": "/trading-game/static/css/2.11829350.chunk.css",
+    "static/js/2.96b223a7.chunk.js": "/trading-game/static/js/2.96b223a7.chunk.js",
+    "static/js/2.96b223a7.chunk.js.map": "/trading-game/static/js/2.96b223a7.chunk.js.map",
+    "index.html": "/trading-game/index.html",
+    "precache-manifest.b7c35e3f3c92e1cb03275a987ac1cacf.js": "/trading-game/precache-manifest.b7c35e3f3c92e1cb03275a987ac1cacf.js",
+    "service-worker.js": "/trading-game/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/trading-game/static/css/2.11829350.chunk.css.map",
+    "static/css/main.11ef1999.chunk.css.map": "/trading-game/static/css/main.11ef1999.chunk.css.map",
+    "static/js/2.96b223a7.chunk.js.LICENSE.txt": "/trading-game/static/js/2.96b223a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8abf3a2.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.96b223a7.chunk.js",
+    "static/css/main.11ef1999.chunk.css",
+    "static/js/main.b966c903.chunk.js"
+  ]
+}
